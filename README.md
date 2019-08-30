@@ -21,5 +21,5 @@
 1.Gravando as modificacoes do repositorio local no remoto (print_07)
 
 -Fetch
-1. 
+1. Atualizando o repositorio (print_08)
 
