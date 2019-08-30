@@ -23,3 +23,5 @@
 -Fetch
 1. Atualizando o repositorio (print_08)
 
+- Finalizacao
+Todos os prints adicionados no repositorio (print_09)
